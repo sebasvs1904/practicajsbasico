@@ -10,7 +10,7 @@ header{
     color: black;
 }
 body{
-    background-image: url("/img/p.jpg");
+    background-image: url("../img/p.jpg");
     color: white;
     font-size: 20px;
 }

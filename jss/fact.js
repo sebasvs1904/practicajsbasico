@@ -5,5 +5,5 @@ var resultado = 1;
 for(var i=1; i<=numero; i++) {
   resultado *= i;
 }
-  document.getElementById("resultado").innerHTML = resultado;
+  document.getElementById("resultado").innerHTML = "Resultado es: "+resultado;
 }
